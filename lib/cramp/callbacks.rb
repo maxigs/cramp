@@ -1,3 +1,4 @@
+# encoding: US-ASCII
 module Cramp
   module Callbacks
 
